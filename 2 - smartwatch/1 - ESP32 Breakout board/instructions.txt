@@ -1,0 +1,2 @@
+To load programs onto the chip press BOOT button and don't release it,
+then press RESET button for one second or more, release RESET, release BOOT.
